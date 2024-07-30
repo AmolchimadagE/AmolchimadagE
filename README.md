@@ -14,7 +14,7 @@
 
 - 👯 I Have done project [Grocery-List](https://amolchimadage.github.io/-Grocery-List/)
 
-- 👨‍💻 All of my projects are available at [http://my-profile-protfoli.amolca.repl.co](http://my-profile-protfoli.amolca.repl.co)
+- 👨‍💻 All of my projects are available at Portfolio website_(https://amolportfolio1.vercel.app/)
 
 - 💬 Ask me about **HTML CSS JAVASCRIPT REACT.JS**
 
